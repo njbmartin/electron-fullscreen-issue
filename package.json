@@ -1,0 +1,23 @@
+{
+  "name": "electron-fullscreen-issue",
+  "version": "1.0.0",
+  "description": "Quick demo of the fullscreen issue when content protection is enabled",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njbmartin/electron-fullscreen-issue.git"
+  },
+  "author": "Nicholas Martin <n.martin@movura.co.uk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njbmartin/electron-fullscreen-issue/issues"
+  },
+  "homepage": "https://github.com/njbmartin/electron-fullscreen-issue#readme",
+  "dependencies": {
+    "electron": "^1.7.5"
+  }
+}
